@@ -1,4 +1,4 @@
-# Simple Blog - React demo project
+# Blog Application
 Simple demo blog with basic functionality such as JWT authentication, create/retrieve/update/delete
 posts and comments.
 
